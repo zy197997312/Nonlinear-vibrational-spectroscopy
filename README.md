@@ -5,6 +5,8 @@ We use a classical iterative method to derive and obtain the nonlinear response 
 
 These codes just show an example and all of them will be presented soon.
 
+Download all the files and run main.m. It will output the simulation results.
+
 The figure of this example:
 
 ![5](https://github.com/zy197997312/Nonlinear-vibrational-spectroscopy/assets/12006358/ba0f752d-8040-414e-b698-7c6b9900dc70)
